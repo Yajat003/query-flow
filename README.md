@@ -17,7 +17,7 @@ query-flow/
 │
 ├── services/
 │   ├── __init__.py      
-│   ├── data_service.py  # 1: Data ingestion, cleaning, and DuckDB setup
+│   ├── data.py  # 1: Data ingestion, cleaning, and DuckDB setup
 │   └── agent.py         # 2: LLM orchestration and native tool guardrails
 │
 ├── app.py               # 3: UI Layout & Streamlit state orchestration
