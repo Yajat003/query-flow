@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+duckdb
+agno
+google-genai
+groq
